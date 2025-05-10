@@ -117,7 +117,7 @@ Contributions are welcome! Please:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions or suggestions, please open an issue or contact [your-email@example.com].
